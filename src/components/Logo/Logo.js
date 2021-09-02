@@ -1,6 +1,6 @@
 import React from "react";
 import classes from "./Logo.css";
-import burgerLogo from "../../assets/images/28.1 burger-logo.png.png";
+import burgerLogo from "../../assets/images/bur.jpg";
 const Logo = () => {
   return (
     <div className={classes.Logo}>
