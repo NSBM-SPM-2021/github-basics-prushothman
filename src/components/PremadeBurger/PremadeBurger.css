@@ -26,10 +26,10 @@
 
 .burger_name{
     text-align: center;
-    color: rgb(203, 192, 192);
+    color: rgb(8, 0, 0);
 }
 
 .burger_price_label{
-    color: rgb(203, 192, 192);
+    color: rgb(7, 0, 0);
     font-weight: 200;
 }
