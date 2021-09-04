@@ -30,18 +30,18 @@ export const validate = (val, rule) => {
 };
 
 export const getBurgerPrice = (ings) => {
-  let price = 2;
+  let price = 200;
   const INGREDIENT_PRICES = {
-    lettuce: 0.3,
-    tomato: 0.2,
-    onion: 0.2,
-    cheese: 0.5,
-    beef: 1.7,
-    chicken: 1.2,
-    sauce: 0.8,
-    bacon: 1.8,
-    "veg-patty": 1,
-    "yogurt-sauce": 0.8,
+    lettuce: 50,
+    tomato: 50,
+    onion: 50,
+    cheese: 50,
+    beef: 50,
+    chicken: 50,
+    sauce: 50,
+    bacon: 50,
+    "veg-patty": 50,
+    "yogurt-sauce": 50,
   };
 
   for (let ing in ings) {
