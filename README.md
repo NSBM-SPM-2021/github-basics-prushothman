@@ -4,7 +4,7 @@
 
 Burgers on you is a food ordering application mostly based on burgers made with react , redux and firebase ..
 
-The app is deployed at https://burgers-on-you.web.app
+The app is deployed at http://localhost:3001/
 
 # Running the project locally
 
