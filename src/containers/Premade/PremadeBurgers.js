@@ -35,7 +35,7 @@ class PremadeBurgers extends Component {
     let premadeBurgers;
     if (this.props.error) {
       premadeBurgers = (
-        <h1>Cant load premade burgers because {this.props.error.message}</h1>
+        <h1>Can not load premade burgers because {this.props.error.message}</h1>
       );
     }
     if (this.props.loading) {
