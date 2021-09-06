@@ -8,6 +8,10 @@ The app is deployed at http://localhost:3001/
         
         
  # JIRA
+  
+JIRA is a project management tool used for issues and bugs tracking system. It is widely used as an issue-tracking tool for all types of testing.
+        
+        
 https://acunetix-test.atlassian.net/jira/software/projects/BOY/boards/1
 
 # Running the project locally
