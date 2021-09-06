@@ -13,6 +13,8 @@ JIRA is a project management tool used for issues and bugs tracking system. It i
         
         
 https://acunetix-test.atlassian.net/jira/software/projects/BOY/boards/1
+https://acunetix-test.atlassian.net/jira/software/projects/BOY/boards/1/backlog
+https://acunetix-test.atlassian.net/jira/software/projects/BOY/settings/issuetypes/10001/workflow
 
 # Running the project locally🛠️
 
