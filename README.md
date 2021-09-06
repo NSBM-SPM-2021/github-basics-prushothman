@@ -7,7 +7,8 @@ Burgers on you is a food ordering application mostly based on burgers made with 
 The app is deployed at http://localhost:3001/
         
         
-This application i used JIRA https://acunetix-test.atlassian.net/jira/software/projects/BOY/boards/1
+ #JIRA
+https://acunetix-test.atlassian.net/jira/software/projects/BOY/boards/1
 
 # Running the project locally
 
