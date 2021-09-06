@@ -5,6 +5,7 @@
 Burgers on you is a food ordering application mostly based on burgers made with react , redux and firebase ..
 
 The app is deployed at http://localhost:3001/
+This application i used JIRA https://acunetix-test.atlassian.net/jira/software/projects/BOY/boards/1
 
 # Running the project locally
 
@@ -22,8 +23,7 @@ npm start
 This will start the development server at port 3000
 
 If you want to use your own database then go to **axios-orders.js** on **src** folder in root folder and change baseUrl there ... Or more precisely , this file : https://github.com/NSBM-SPM-2021/github-basics-prushothman/blob/master/src/axios-orders.js...
-        
- this application i used JIRA https://acunetix-test.atlassian.net/jira/software/projects/BOY/boards/1       
+               
 
 This project uses firebase realtime database...
 
