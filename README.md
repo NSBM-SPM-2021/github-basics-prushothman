@@ -14,7 +14,7 @@ JIRA is a project management tool used for issues and bugs tracking system. It i
         
 https://acunetix-test.atlassian.net/jira/software/projects/BOY/boards/1
 
-# Running the project locally⚡
+# Running the project locally🛠️
 
 Download this repository and then on the root folder run
 
