@@ -19,7 +19,7 @@ https://acunetix-test.atlassian.net/jira/software/projects/BOY/settings/issuetyp
 #### JIRA screenshot 
  (https://github.com/NSBM-SPM-2021/github-basics-prushothman/tree/master/JIRA%20screenshots?raw=true)
         
-  https://github.com/NSBM-SPM-2021/github-basics-prushothman/blob/master/JIRA%20screenshots/Screenshot%20(58).png
+  (https://github.com/NSBM-SPM-2021/github-basics-prushothman/blob/master/JIRA%20screenshots/Screenshot%20(58).png?raw=true )
 
 # Running the project locally🛠️
 
