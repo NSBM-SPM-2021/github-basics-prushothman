@@ -16,7 +16,8 @@ https://acunetix-test.atlassian.net/jira/software/projects/BOY/boards/1
 https://acunetix-test.atlassian.net/jira/software/projects/BOY/boards/1/backlog
 https://acunetix-test.atlassian.net/jira/software/projects/BOY/settings/issuetypes/10001/workflow
         
- https://github.com/NSBM-SPM-2021/github-basics-prushothman/tree/master/JIRA%20screenshots
+#### JIRA screenshot 
+ (https://github.com/NSBM-SPM-2021/github-basics-prushothman/tree/master/JIRA%20screenshots?raw=true)
 
 # Running the project locally🛠️
 
