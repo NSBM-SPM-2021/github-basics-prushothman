@@ -54,7 +54,7 @@ This project uses firebase realtime database...
 ![GIF showing core parts of the app](https://github.com/NSBM-SPM-2021/github-basics-prushothman/blob/master/screen%20shots/main.gif)
 
 #### Home page
-![home page of the app](https://github.com/grapeJUICE1/burgers-on-you/blob/master/screenshots/home.PNG?raw=true)
+![home page of the app](https://github.com/NSBM-SPM-2021/github-basics-prushothman/blob/master/screen%20shots/home.png)
 
 #### orders page
 ![orders page of the app](https://github.com/grapeJUICE1/burgers-on-you/blob/master/screenshots/orders.PNG?raw=true)
