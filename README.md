@@ -66,4 +66,4 @@ This project uses firebase realtime database...
 ![login/signup page of the app](https://github.com/NSBM-SPM-2021/github-basics-prushothman/blob/master/screen%20shots/login%20or%20signup.png)
 
 #### readymade burgers page
-![readymade burgers page of the app](https://github.com/grapeJUICE1/burgers-on-you/blob/master/screenshots/premad.PNG?raw=true)
+![readymade burgers page of the app](https://github.com/NSBM-SPM-2021/github-basics-prushothman/blob/master/screen%20shots/readymade.png)
