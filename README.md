@@ -60,7 +60,7 @@ This project uses firebase realtime database...
 ![orders page of the app](https://github.com/NSBM-SPM-2021/github-basics-prushothman/blob/master/screen%20shots/order.png)
 
 #### checkout page
-![checkout page of the app](https://github.com/grapeJUICE1/burgers-on-you/blob/master/screenshots/checkout.PNG?raw=true)
+![checkout page of the app](https://github.com/NSBM-SPM-2021/github-basics-prushothman/blob/master/screen%20shots/checkout.png)
 
 #### login/signup page
 ![login/signup page of the app](https://github.com/grapeJUICE1/burgers-on-you/blob/master/screenshots/auth.PNG?raw=true)
