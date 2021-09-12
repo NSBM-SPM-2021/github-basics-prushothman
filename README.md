@@ -70,4 +70,4 @@ This project uses firebase realtime database...
 ![readymade burgers page of the app](https://github.com/NSBM-SPM-2021/github-basics-prushothman/blob/master/screen%20shots/readymade2.png)
 
 #### order add page  
-![readymade burgers page of the app]       
+![readymade burgers page of the app](https://github.com/NSBM-SPM-2021/github-basics-prushothman/blob/master/screen%20shots/order%20add.png)     
