@@ -74,3 +74,8 @@ This project uses firebase realtime database...
 
 ###JIRA screenshot
  ![issues](https://github.com/NSBM-SPM-2021/github-basics-prushothman/blob/master/JIRA%20screenshots/Screenshot%20(74).png)
+ ![issues](https://github.com/NSBM-SPM-2021/github-basics-prushothman/blob/master/JIRA%20screenshots/Screenshot%20(76).png)
+ ![issues](https://github.com/NSBM-SPM-2021/github-basics-prushothman/blob/master/JIRA%20screenshots/Screenshot%20(77).png)
+ ![issues](https://github.com/NSBM-SPM-2021/github-basics-prushothman/blob/master/JIRA%20screenshots/Screenshot%20(78).png)
+ ![issues](https://github.com/NSBM-SPM-2021/github-basics-prushothman/blob/master/JIRA%20screenshots/Screenshot%20(79).png)
+
