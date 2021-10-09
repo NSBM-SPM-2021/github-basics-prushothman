@@ -1,0 +1,50 @@
+name: deploy to firebase
+
+
+on:
+
+  pull_request:
+
+  push:
+    branches: 
+            - master
+            - main
+
+
+
+  workflow_dispatch:
+
+
+jobs:
+
+  build:
+
+    runs-on:windows latest
+
+
+    steps:
+
+      - uses: actions/checkout@v2
+
+
+      - name:deploy to firebase
+
+    env:
+       - firebase app name :burgers-on-you
+
+      run:
+       git remote add firebase -"ttps://firebase:burgers-on-you-42db8"
+        hosting firebase link - burgerapp-fec0e.web.app/
+
+
+      - name: Install
+        run: npm install
+
+        name:Test
+        run: npm test
+             yarn test
+          echo Add other actions to build,
+          echo test, and deploy your project.
+
+          deploy:
+#             provider: firebase
