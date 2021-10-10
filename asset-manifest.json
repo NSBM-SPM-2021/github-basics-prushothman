@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/github-basics-prushothman/static/css/main.028169d7.chunk.css",
+    "main.js": "/github-basics-prushothman/static/js/main.301c1415.chunk.js",
+    "main.js.map": "/github-basics-prushothman/static/js/main.301c1415.chunk.js.map",
+    "runtime-main.js": "/github-basics-prushothman/static/js/runtime-main.26dc3459.js",
+    "runtime-main.js.map": "/github-basics-prushothman/static/js/runtime-main.26dc3459.js.map",
+    "static/js/2.66ba39b2.chunk.js": "/github-basics-prushothman/static/js/2.66ba39b2.chunk.js",
+    "static/js/2.66ba39b2.chunk.js.map": "/github-basics-prushothman/static/js/2.66ba39b2.chunk.js.map",
+    "static/css/3.f2261c92.chunk.css": "/github-basics-prushothman/static/css/3.f2261c92.chunk.css",
+    "static/js/3.dbeb0579.chunk.js": "/github-basics-prushothman/static/js/3.dbeb0579.chunk.js",
+    "static/js/3.dbeb0579.chunk.js.map": "/github-basics-prushothman/static/js/3.dbeb0579.chunk.js.map",
+    "static/css/4.3f2c0afa.chunk.css": "/github-basics-prushothman/static/css/4.3f2c0afa.chunk.css",
+    "static/js/4.0707d5cf.chunk.js": "/github-basics-prushothman/static/js/4.0707d5cf.chunk.js",
+    "static/js/4.0707d5cf.chunk.js.map": "/github-basics-prushothman/static/js/4.0707d5cf.chunk.js.map",
+    "static/css/5.4abad3c0.chunk.css": "/github-basics-prushothman/static/css/5.4abad3c0.chunk.css",
+    "static/js/5.8600a834.chunk.js": "/github-basics-prushothman/static/js/5.8600a834.chunk.js",
+    "static/js/5.8600a834.chunk.js.map": "/github-basics-prushothman/static/js/5.8600a834.chunk.js.map",
+    "static/css/6.80ef2938.chunk.css": "/github-basics-prushothman/static/css/6.80ef2938.chunk.css",
+    "static/js/6.1bed7174.chunk.js": "/github-basics-prushothman/static/js/6.1bed7174.chunk.js",
+    "static/js/6.1bed7174.chunk.js.map": "/github-basics-prushothman/static/js/6.1bed7174.chunk.js.map",
+    "static/js/7.8e9dabeb.chunk.js": "/github-basics-prushothman/static/js/7.8e9dabeb.chunk.js",
+    "static/js/7.8e9dabeb.chunk.js.map": "/github-basics-prushothman/static/js/7.8e9dabeb.chunk.js.map",
+    "index.html": "/github-basics-prushothman/index.html",
+    "static/css/3.f2261c92.chunk.css.map": "/github-basics-prushothman/static/css/3.f2261c92.chunk.css.map",
+    "static/css/4.3f2c0afa.chunk.css.map": "/github-basics-prushothman/static/css/4.3f2c0afa.chunk.css.map",
+    "static/css/5.4abad3c0.chunk.css.map": "/github-basics-prushothman/static/css/5.4abad3c0.chunk.css.map",
+    "static/css/6.80ef2938.chunk.css.map": "/github-basics-prushothman/static/css/6.80ef2938.chunk.css.map",
+    "static/css/main.028169d7.chunk.css.map": "/github-basics-prushothman/static/css/main.028169d7.chunk.css.map",
+    "static/js/2.66ba39b2.chunk.js.LICENSE.txt": "/github-basics-prushothman/static/js/2.66ba39b2.chunk.js.LICENSE.txt",
+    "static/media/new.dbf76213.png": "/github-basics-prushothman/static/media/new.dbf76213.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26dc3459.js",
+    "static/js/2.66ba39b2.chunk.js",
+    "static/css/main.028169d7.chunk.css",
+    "static/js/main.301c1415.chunk.js"
+  ]
+}
