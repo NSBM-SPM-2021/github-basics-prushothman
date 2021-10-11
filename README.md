@@ -37,6 +37,12 @@ npm start
 
 This will start the development server at port 3000
 
+        
+```bash
+npm test
+```
+This will using test functionalities
+
 If you want to use your own database then go to **axios-orders.js** on **src** folder in root folder and change baseUrl there ... Or more precisely , this file : 
         
  https://github.com/NSBM-SPM-2021/github-basics-prushothman/blob/master/src/axios-orders.js...
