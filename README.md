@@ -76,6 +76,9 @@ This project uses firebase realtime database...
 ### firebase hosting
  ![firebasehost](https://github.com/NSBM-SPM-2021/github-basics-prushothman/blob/master/screen%20shots/Screenshot%20(87).png)
 
+###deploy action
+ ![deploy](https://github.com/NSBM-SPM-2021/github-basics-prushothman/blob/master/screen%20shots/Screenshot%20(91).png)
+
 ###JIRA screenshot
  ![issues](https://github.com/NSBM-SPM-2021/github-basics-prushothman/blob/master/JIRA%20screenshots/Screenshot%20(74).png)
  ![issues](https://github.com/NSBM-SPM-2021/github-basics-prushothman/blob/master/JIRA%20screenshots/Screenshot%20(76).png)
