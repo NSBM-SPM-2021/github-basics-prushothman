@@ -22,11 +22,13 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - run: npm install -g yarn
+    - run: npm install -g firebase-tools
     - name: yarn install, build and test
       run: |
         yarn install
         yarn run build
         ls build/
+        firebase deploy --token "1//0g08WuWEkpbn7CgYIARAAGBASNwF-L9IrngZsyVpfAsIWsgT0tS10tiKlGP05_Emw5wsVMZ22vBhr5nF6WjWG0kYPYhkKd3TQ56A"
     # - name: Archive Build
     #   uses: actions/upload-artifact@v2
     #   with:
