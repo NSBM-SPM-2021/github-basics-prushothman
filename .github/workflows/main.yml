@@ -26,9 +26,11 @@ jobs:
       run: |
         yarn install
         yarn run build
-        
-    - name: Archive Build
-      uses: actions/upload-artifact@v2
-      with:
-          name: dist
-          path: dist
+        ls build/
+    # - name: Archive Build
+    #   uses: actions/upload-artifact@v2
+    #   with:
+    #       name: dist
+    #       path: dist
+
+
