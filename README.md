@@ -37,6 +37,12 @@ npm start
 
 This will start the development server at port 3000
 
+        
+```bash
+npm test
+```
+This will using test functionalities
+
 If you want to use your own database then go to **axios-orders.js** on **src** folder in root folder and change baseUrl there ... Or more precisely , this file : 
         
  https://github.com/NSBM-SPM-2021/github-basics-prushothman/blob/master/src/axios-orders.js...
@@ -76,6 +82,9 @@ This project uses firebase realtime database...
 ### firebase hosting
  ![firebasehost](https://github.com/NSBM-SPM-2021/github-basics-prushothman/blob/master/screen%20shots/Screenshot%20(87).png)
 
+###deploy action
+ ![deploy](https://github.com/NSBM-SPM-2021/github-basics-prushothman/blob/master/screen%20shots/Screenshot%20(91).png)
+
 ###JIRA screenshot
  ![issues](https://github.com/NSBM-SPM-2021/github-basics-prushothman/blob/master/JIRA%20screenshots/Screenshot%20(74).png)
  ![issues](https://github.com/NSBM-SPM-2021/github-basics-prushothman/blob/master/JIRA%20screenshots/Screenshot%20(76).png)
@@ -83,4 +92,10 @@ This project uses firebase realtime database...
  ![issues](https://github.com/NSBM-SPM-2021/github-basics-prushothman/blob/master/JIRA%20screenshots/Screenshot%20(78).png)
  ![issues](https://github.com/NSBM-SPM-2021/github-basics-prushothman/blob/master/JIRA%20screenshots/Screenshot%20(79).png)
  ![issues](https://github.com/NSBM-SPM-2021/github-basics-prushothman/blob/master/JIRA%20screenshots/Screenshot%20(80).png)
+        
+  
+ #Unit Testing
+        
+ I have used Jest with Serverlets Framework to testing functionalities.
+ ![issues](https://github.com/NSBM-SPM-2021/github-basics-prushothman/blob/master/screen%20shots/Screenshot%20(97).png)
 
