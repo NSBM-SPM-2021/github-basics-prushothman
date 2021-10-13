@@ -28,7 +28,7 @@ jobs:
         yarn install
         yarn run build
         ls build/
-        sed -i "s/\/github-basics-prushothman/g" build/index.html
+        sed -i "s/\/github-basics-prushothman//g" build/index.html
         firebase deploy --token "1//0g08WuWEkpbn7CgYIARAAGBASNwF-L9IrngZsyVpfAsIWsgT0tS10tiKlGP05_Emw5wsVMZ22vBhr5nF6WjWG0kYPYhkKd3TQ56A" --project "burgerapp-fec0e"
     # - name: Archive Build
     #   uses: actions/upload-artifact@v2
